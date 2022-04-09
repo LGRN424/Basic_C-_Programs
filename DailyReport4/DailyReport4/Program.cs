@@ -29,9 +29,11 @@ namespace DailyReport
             string pageNumber = Console.ReadLine();
             int currentPage = Convert.ToInt32(pageNumber);
 
-            //Question using string data variable//
+            //Question using boolean variable//
             Console.WriteLine("Do you need help with anything? Please answer True or False");
-            string needsHelop = Console.ReadLine();
+            string needsHelp = Console.ReadLine();
+            bool help = Convert.ToBoolean(needsHelp);
+
 
             //Feedback using string text//
             Console.WriteLine("Are there any positive experiences you would like to share?  Please give specifics");

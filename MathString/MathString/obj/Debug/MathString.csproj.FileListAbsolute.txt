@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathString\MathString\obj\Debug\MathString.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathString\MathString\obj\Debug\MathString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathString\MathString\obj\Debug\MathString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathString\MathString\bin\Debug\MathString.exe.config
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathString\MathString\bin\Debug\MathString.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathString\MathString\bin\Debug\MathString.pdb
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathString\MathString\obj\Debug\MathString.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathString\MathString\obj\Debug\MathString.pdb
