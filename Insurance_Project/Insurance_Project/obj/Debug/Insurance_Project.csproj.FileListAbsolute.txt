@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Basic_C#_Programs\Insurance_Project\Insurance_Project\obj\Debug\Insurance_Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\Insurance_Project\Insurance_Project\obj\Debug\Insurance_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\Insurance_Project\Insurance_Project\obj\Debug\Insurance_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\Insurance_Project\Insurance_Project\bin\Debug\Insurance_Project.exe.config
+C:\Users\Admin\Desktop\Basic_C#_Programs\Insurance_Project\Insurance_Project\bin\Debug\Insurance_Project.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\Insurance_Project\Insurance_Project\bin\Debug\Insurance_Project.pdb
+C:\Users\Admin\Desktop\Basic_C#_Programs\Insurance_Project\Insurance_Project\obj\Debug\Insurance_Project.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\Insurance_Project\Insurance_Project\obj\Debug\Insurance_Project.pdb
