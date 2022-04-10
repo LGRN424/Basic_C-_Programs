@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathandComparisonOperations\MathandComparisonOperations\bin\Debug\MathandComparisonOperations.exe.config
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathandComparisonOperations\MathandComparisonOperations\bin\Debug\MathandComparisonOperations.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathandComparisonOperations\MathandComparisonOperations\bin\Debug\MathandComparisonOperations.pdb
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathandComparisonOperations\MathandComparisonOperations\obj\Debug\MathandComparisonOperations.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathandComparisonOperations\MathandComparisonOperations\obj\Debug\MathandComparisonOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathandComparisonOperations\MathandComparisonOperations\obj\Debug\MathandComparisonOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathandComparisonOperations\MathandComparisonOperations\obj\Debug\MathandComparisonOperations.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\MathandComparisonOperations\MathandComparisonOperations\obj\Debug\MathandComparisonOperations.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Basic_C#_Programs\ComparisonMathAssign\ComparisonMathAssign\bin\Debug\ComparisonMathAssign.exe.config
+C:\Users\Admin\Desktop\Basic_C#_Programs\ComparisonMathAssign\ComparisonMathAssign\bin\Debug\ComparisonMathAssign.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\ComparisonMathAssign\ComparisonMathAssign\bin\Debug\ComparisonMathAssign.pdb
+C:\Users\Admin\Desktop\Basic_C#_Programs\ComparisonMathAssign\ComparisonMathAssign\obj\Debug\ComparisonMathAssign.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\ComparisonMathAssign\ComparisonMathAssign\obj\Debug\ComparisonMathAssign.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\ComparisonMathAssign\ComparisonMathAssign\obj\Debug\ComparisonMathAssign.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\ComparisonMathAssign\ComparisonMathAssign\obj\Debug\ComparisonMathAssign.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\ComparisonMathAssign\ComparisonMathAssign\obj\Debug\ComparisonMathAssign.pdb
