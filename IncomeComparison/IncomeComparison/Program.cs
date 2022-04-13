@@ -27,8 +27,8 @@ namespace IncomeComparison
             int hours2 = Convert.ToInt32(Console.ReadLine());
 
             //Annual salary of each person//
-            int salary1 = (rate1 + hours1) * 52;
-            int salary2 = (rate2 + hours2) * 52;
+            int salary1 = (rate1 * hours1) * 52;
+            int salary2 = (rate2 * hours2) * 52;
 
             Console.WriteLine("Annual Salary of Person 1:" );
             Console.WriteLine(salary1);
