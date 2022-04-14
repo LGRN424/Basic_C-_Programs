@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{368D56BF-9416-4C59-8249-3011342934BA}</ProjectGuid>
+    <ProjectGuid>{2B93FE56-7C19-41A9-8B12-FFF59121D2BD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ifelsestatements</RootNamespace>
-    <AssemblyName>ifelsestatements</AssemblyName>
+    <RootNamespace>PackageCalculations</RootNamespace>
+    <AssemblyName>PackageCalculations</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

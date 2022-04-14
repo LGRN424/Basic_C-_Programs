@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Basic_C#_Programs\New folder\PackageCalculations\PackageCalculations\bin\Debug\PackageCalculations.exe.config
+C:\Users\Admin\Desktop\Basic_C#_Programs\New folder\PackageCalculations\PackageCalculations\bin\Debug\PackageCalculations.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\New folder\PackageCalculations\PackageCalculations\bin\Debug\PackageCalculations.pdb
+C:\Users\Admin\Desktop\Basic_C#_Programs\New folder\PackageCalculations\PackageCalculations\obj\Debug\PackageCalculations.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\New folder\PackageCalculations\PackageCalculations\obj\Debug\PackageCalculations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\New folder\PackageCalculations\PackageCalculations\obj\Debug\PackageCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\New folder\PackageCalculations\PackageCalculations\obj\Debug\PackageCalculations.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\New folder\PackageCalculations\PackageCalculations\obj\Debug\PackageCalculations.pdb
