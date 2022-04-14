@@ -19,8 +19,8 @@ namespace Insurance_Project
             int age = Convert.ToInt32(Console.ReadLine());
             
             //DUI//
-            Console.WriteLine("Have you ever had a DUI?");
-            string dui = Convert.ToString(Console.ReadLine());
+            Console.WriteLine("Have you ever had a DUI? True or False");
+            bool dui = Convert.ToBoolean(Console.ReadLine());
 
             //Speeding Tickets//
             Console.WriteLine("How many speeding tickets do you have?");
@@ -28,7 +28,7 @@ namespace Insurance_Project
 
             //Qualification for Insurance//
             Console.WriteLine("Qualified?");
-            bool autoIns = ((age >= 16) && (dui == "No") && (tickets <= 3));
+            bool autoIns = ((age >= 16) && (dui = true) && (tickets <= 3));
             Console.WriteLine(autoIns);
             
             Console.ReadLine();
