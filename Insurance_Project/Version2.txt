@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,15 +9,15 @@ namespace Insurance_Project
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {   
             //Title of Program//
             Console.WriteLine("Car Insurance Approval");
             Console.WriteLine();
-
+          
             //Age of applicant//
             Console.WriteLine("What is your age?");
             int age = Convert.ToInt32(Console.ReadLine());
-
+            
             //DUI//
             Console.WriteLine("Have you ever had a DUI? True or False");
             bool dui = Convert.ToBoolean(Console.ReadLine());
@@ -27,10 +27,11 @@ namespace Insurance_Project
             int tickets = Convert.ToInt32(Console.ReadLine());
 
             //Qualification for Insurance//
-            bool isqualiFied = ((age >= 16) && (dui == false) && (tickets <= 3));
             Console.WriteLine("Qualified?");
-            Console.WriteLine(isqualiFied ? true : false);
-
+            bool autoIns = true// Set to true or false//
+            ((age >= 16) && (dui = true) && (tickets <= 3));
+            Console.WriteLine(autoIns);
+            
             Console.ReadLine();
         }
     }
