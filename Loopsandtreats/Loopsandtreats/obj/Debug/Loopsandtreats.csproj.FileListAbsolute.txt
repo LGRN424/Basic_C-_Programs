@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Basic_C#_Programs\Loopsandtreats\Loopsandtreats\obj\Debug\Loopsandtreats.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\Loopsandtreats\Loopsandtreats\obj\Debug\Loopsandtreats.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\Loopsandtreats\Loopsandtreats\obj\Debug\Loopsandtreats.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Basic_C#_Programs\Loopsandtreats\Loopsandtreats\bin\Debug\Loopsandtreats.exe.config
+C:\Users\Admin\Desktop\Basic_C#_Programs\Loopsandtreats\Loopsandtreats\bin\Debug\Loopsandtreats.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\Loopsandtreats\Loopsandtreats\bin\Debug\Loopsandtreats.pdb
+C:\Users\Admin\Desktop\Basic_C#_Programs\Loopsandtreats\Loopsandtreats\obj\Debug\Loopsandtreats.exe
+C:\Users\Admin\Desktop\Basic_C#_Programs\Loopsandtreats\Loopsandtreats\obj\Debug\Loopsandtreats.pdb
