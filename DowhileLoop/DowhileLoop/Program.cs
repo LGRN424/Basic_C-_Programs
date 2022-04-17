@@ -10,13 +10,18 @@ namespace Loops
     {
         static void Main(string[] args)
         {
+            //Ask for number of treats//
             Console.WriteLine("My dog wants to know how many dog treats do you have today. Enter number of treats:");
             int numb = Convert.ToInt32(Console.ReadLine());
+
+            //Correct number of treats is 8//
             bool isGuessed = numb == 8;
 
-            do
+
+            do //Begin loop//
             {
                 switch (numb)
+               
                 {
                     case 0:
                     case 1:
@@ -50,11 +55,12 @@ namespace Loops
                         break;
 
 
-                    case 8:
+                    //bool is true//
+                        case 8:
                         Console.WriteLine("You are my favorite person!");
                         isGuessed = true;
                         break;
-
+                    
                     default:
                         Console.WriteLine("You brought too many treats!");
                         Console.WriteLine("How many treats will you bring next time?");
