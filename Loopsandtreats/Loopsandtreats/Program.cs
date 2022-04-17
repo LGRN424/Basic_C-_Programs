@@ -12,10 +12,13 @@ namespace Loops
         {
             Console.WriteLine("My dog wants to know how many dog treats do you have today. Enter number of treats:");
             int numb = Convert.ToInt32(Console.ReadLine());
+
+            //bool is true when 8 is entered by user//
             bool isGuessed = numb == 8; 
 
             while (!isGuessed)
             {
+                //loop cases//
                 switch (numb)
                 {
                     case 0:
