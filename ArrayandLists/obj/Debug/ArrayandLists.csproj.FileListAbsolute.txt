@@ -1,8 +1,0 @@
-C:\Users\user\Desktop\Basic_CSharp_Program\ArrayandLists\ArrayandLists\bin\Debug\ArrayandLists.exe.config
-C:\Users\user\Desktop\Basic_CSharp_Program\ArrayandLists\ArrayandLists\bin\Debug\ArrayandLists.exe
-C:\Users\user\Desktop\Basic_CSharp_Program\ArrayandLists\ArrayandLists\bin\Debug\ArrayandLists.pdb
-C:\Users\user\Desktop\Basic_CSharp_Program\ArrayandLists\ArrayandLists\obj\Debug\ArrayandLists.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\Basic_CSharp_Program\ArrayandLists\ArrayandLists\obj\Debug\ArrayandLists.csproj.SuggestedBindingRedirects.cache
-C:\Users\user\Desktop\Basic_CSharp_Program\ArrayandLists\ArrayandLists\obj\Debug\ArrayandLists.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\Basic_CSharp_Program\ArrayandLists\ArrayandLists\obj\Debug\ArrayandLists.exe
-C:\Users\user\Desktop\Basic_CSharp_Program\ArrayandLists\ArrayandLists\obj\Debug\ArrayandLists.pdb
